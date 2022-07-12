@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <div class="container d-flex align-items-center justify-content-between px-4">
+        <div class="container header-c d-flex align-items-center justify-content-between px-4">
             <h2>Test Zanichelli</h2>
             <a href="/users">Vai alla lista degli utenti</a>
         </div>
